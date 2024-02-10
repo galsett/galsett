@@ -47,7 +47,7 @@
 
 <img src="https://img.shields.io/badge/GitHub-Profile%20Visitor%20Count-yellow?logo=GitHub" alt="GitHub Profile Visitor Count">
 
-<p align="center">
+<p align="left">
   <img
     src="https://profile-counter.glitch.me/galsett/count.svg"
     alt="Número de visitantes no perfil"
