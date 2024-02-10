@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/badge/GitHub-Overview-blue?logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/badge/GitHub-Overview-red?logo=GitHub" alt="GitHub Overview">
 
-### Olá, meu nome é Alan Vieira! 👋
+<h1>Olá, meu nome é Alan Vieira! 👋</h1>
 
 <p>Interesso-me por Ciência de Dados e suas ferramentas a fim de incrementar a inteligência humana e aumentar sua produtividade.</p>
 
@@ -9,6 +9,8 @@
   <li>Trainee em Suporte Técnico @ IFS/Campus Aracaju</li>
   <li>Estudante de Ciência da Computação @ Unit/Campus Farolândia</li>
 </ul>
+
+<img src="https://img.shields.io/badge/GitHub-Analytics-green?logo=GitHub" alt="GitHub Analytics">
 
 <img
   align="left"
@@ -25,8 +27,30 @@
 />
 
 <img
-  align="left"
   height="100" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
   alt="Github Stats"
 />
+
+<img src="https://img.shields.io/badge/GitHub-Profile%20Trophy-blue?logo=GitHub" alt="GitHub Profile Trophy">
+
+<p align="left">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=galsett&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+<img src="https://img.shields.io/badge/GitHub-Profile%20Visitor%20Count-yellow?logo=GitHub" alt="GitHub Profile Visitor Count">
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/galsett/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
