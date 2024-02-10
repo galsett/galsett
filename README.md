@@ -6,7 +6,6 @@
 
 <ul>
   <li>Aspirante na área de Ciência de Dados</li>
-  <li>Trainee em Suporte Técnico @ IFS/Campus Aracaju</li>
   <li>Estudante de Ciência da Computação @ Unit/Campus Farolândia</li>
 </ul>
 
