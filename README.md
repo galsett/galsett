@@ -2,10 +2,12 @@
 
 <img src="https://img.shields.io/badge/GitHub-Overview-blue?logo=GitHub" alt="Static GitHub">
 
-<h2>Olá, meu nome é Alan Vieira! 👋</h2>
+### Olá, meu nome é Alan Vieira! 👋
+
+<p>Interesso-me por Ciência de Dados e suas ferramentas a fim de incrementar a inteligência humana e aumentar sua produtividade.</p>
 
 <ul style="list-style-type:square;">
-  <li>Aspirante na área de DS/ML</li>
+  <li>Aspirante na área de Ciência de Dados</li>
   <li>Trainee em Suporte Técnico @ IFS/Campus Aracaju</li>
   <li>Estudante de Ciência da Computação @ Unit/Campus Farolândia</li>
 </ul>
