@@ -2,7 +2,7 @@
 
 <h1>Olá, meu nome é Alan Vieira! 👋</h1>
 
-<p>Interesso-me por Ciência de Dados e suas ferramentas a fim de incrementar a inteligência humana e aumentar sua produtividade.</p>
+<p>Interesso-me por ciência e tecnologia a fim de incrementar a inteligência humana e aumentar sua produtividade.</p>
 
 <ul>
   <li>Aspirante na área de Ciência de Dados</li>
